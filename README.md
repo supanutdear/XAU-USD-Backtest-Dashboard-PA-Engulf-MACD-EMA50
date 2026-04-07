@@ -6,7 +6,7 @@ Systematic trading strategy backtest on XAU/USD (Gold) using Price Action, MACD,
 
 ## Live Dashboard
 
-[View Backtest Dashboard](https://pa15m-macd-ema50-supanut.netlify.app/)
+[View Backtest Dashboard](https://supanutdear.github.io/XAU-USD-Backtest-Dashboard-PA-Engulf-MACD-EMA50/)
 
 ---
 
